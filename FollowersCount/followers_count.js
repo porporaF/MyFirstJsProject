@@ -12,8 +12,9 @@ function displayCount(){
 function checkCountValue(){
     if(count==10){
         alert("Post gained 1o likes");
+    }
         else if (count==20){
             alert("Post gained 20 likes");
         }
-    }
+    
 }
